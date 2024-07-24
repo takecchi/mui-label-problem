@@ -14,3 +14,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Screenshots
 
+![screenshot](https://raw.githubusercontent.com/takecchi/mui-label-problem/main/screenshots/2024-07-24%2018.36.05.png)
